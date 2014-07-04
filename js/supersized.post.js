@@ -39,6 +39,7 @@ $(document).ready(function(){
             thumb : '',
             url : ''
             },
+
             {image : 'http://lab.kvzhuang.net/gallery/images/IMG_2226.jpg',
             title : '',
             thumb : '',
@@ -49,8 +50,7 @@ $(document).ready(function(){
             thumb : '',
             url : ''
             },
-
-            {image : 'http://lab.kvzhuang.net/gallery/images/IMG_2325.jpg',
+            {image : 'http://wedding.kvzhuang.net/gallery/IMG_1936.jpg',
             title : '',
             thumb : '',
             url : ''
@@ -60,8 +60,6 @@ $(document).ready(function(){
             thumb : '',
             url : ''
             },
-
-
             {image : 'http://lab.kvzhuang.net/gallery/images/IMG_2342_1.jpg',
             title : '',
             thumb : '',
