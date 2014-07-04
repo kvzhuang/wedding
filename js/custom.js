@@ -50,7 +50,7 @@ $(document).ready(function(){
 
   	$(function() {
 		
-		 if(lazyload==false || isMobile == true) return false;
+		 if(! $.fn.lazyload || isMobile == true) return false;
 			 
           $("img.lazy").lazyload({
              placeholder : "images/blank.gif",
